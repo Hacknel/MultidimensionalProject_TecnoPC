@@ -8,12 +8,12 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>DM Tecno PC CS Database Service View.cube</Name>
-      <FullPath>DM Tecno PC CS Database Service View.cube</FullPath>
+      <Name>EMPLEADOS.cube</Name>
+      <FullPath>EMPLEADOS.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>DM Tecno PC CS Database Service View.partitions</Name>
-          <FullPath>DM Tecno PC CS Database Service View.partitions</FullPath>
+          <Name>EMPLEADOS.partitions</Name>
+          <FullPath>EMPLEADOS.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
@@ -78,7 +78,7 @@
           <ConfigurationSetting>
             <Id>DM Tecno PC CS Database Service</Id>
             <Name>DM Tecno PC CS Database Service</Name>
-            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=DESKTOP-2KKKGON;Persist Security Info=True;Password=;User ID=;Initial Catalog=DMTecnoPC_CS_DatabaseService</Value>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=HACKNEL;Persist Security Info=True;Password=;User ID=;Initial Catalog=DMTecnoPC_CS_DatabaseService</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
