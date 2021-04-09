@@ -8,12 +8,12 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>DM Tecno PC CS Database Service View.cube</Name>
-      <FullPath>DM Tecno PC CS Database Service View.cube</FullPath>
+      <Name>EMPLEADOS.cube</Name>
+      <FullPath>EMPLEADOS.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>DM Tecno PC CS Database Service View.partitions</Name>
-          <FullPath>DM Tecno PC CS Database Service View.partitions</FullPath>
+          <Name>EMPLEADOS.partitions</Name>
+          <FullPath>EMPLEADOS.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
