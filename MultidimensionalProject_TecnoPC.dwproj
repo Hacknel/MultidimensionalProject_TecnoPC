@@ -27,6 +27,16 @@
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
+    <ProjectItem>
+      <Name>PRODUCTOS.cube</Name>
+      <FullPath>PRODUCTOS.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>PRODUCTOS.partitions</Name>
+          <FullPath>PRODUCTOS.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
@@ -57,6 +67,26 @@
       <Name>Tiempos Proveedores DM.dim</Name>
       <FullPath>Tiempos Proveedores DM.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Clientes DM 1.dim</Name>
+      <FullPath>Clientes DM 1.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Tiempos Ventas DM 1.dim</Name>
+      <FullPath>Tiempos Ventas DM 1.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Empleados DM 1.dim</Name>
+      <FullPath>Empleados DM 1.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Tiempos Proveedores DM 1.dim</Name>
+      <FullPath>Tiempos Proveedores DM 1.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Proveedores DM 1.dim</Name>
+      <FullPath>Proveedores DM 1.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
@@ -78,7 +108,7 @@
           <ConfigurationSetting>
             <Id>DM Tecno PC CS Database Service</Id>
             <Name>DM Tecno PC CS Database Service</Name>
-            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=DESKTOP-2KKKGON;Persist Security Info=True;Password=;User ID=;Initial Catalog=DMTecnoPC_CS_DatabaseService</Value>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=DESKTOP-P4A3L4O;Persist Security Info=True;Password=;User ID=;Initial Catalog=DMTecnoPC_CS_DatabaseService</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
