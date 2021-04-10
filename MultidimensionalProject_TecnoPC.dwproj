@@ -37,6 +37,16 @@
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
+    <ProjectItem>
+      <Name>PROVEEDORES.cube</Name>
+      <FullPath>PROVEEDORES.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>PROVEEDORES.partitions</Name>
+          <FullPath>PROVEEDORES.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
@@ -87,6 +97,10 @@
       <Name>Proveedores DM 1.dim</Name>
       <FullPath>Proveedores DM 1.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Compras DM.dim</Name>
+      <FullPath>Compras DM.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
@@ -108,7 +122,7 @@
           <ConfigurationSetting>
             <Id>DM Tecno PC CS Database Service</Id>
             <Name>DM Tecno PC CS Database Service</Name>
-            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=DESKTOP-P4A3L4O;Persist Security Info=True;Password=;User ID=;Initial Catalog=DMTecnoPC_CS_DatabaseService</Value>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=JEFFERSON-PC;Persist Security Info=True;Password=;User ID=;Initial Catalog=DMTecnoPC_CS_DatabaseService</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
