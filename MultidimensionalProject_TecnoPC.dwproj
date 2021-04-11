@@ -77,30 +77,6 @@
       <Name>Tiempos Proveedores DM.dim</Name>
       <FullPath>Tiempos Proveedores DM.dim</FullPath>
     </ProjectItem>
-    <ProjectItem>
-      <Name>Clientes DM 1.dim</Name>
-      <FullPath>Clientes DM 1.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Tiempos Ventas DM 1.dim</Name>
-      <FullPath>Tiempos Ventas DM 1.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Empleados DM 1.dim</Name>
-      <FullPath>Empleados DM 1.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Tiempos Proveedores DM 1.dim</Name>
-      <FullPath>Tiempos Proveedores DM 1.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Proveedores DM 1.dim</Name>
-      <FullPath>Proveedores DM 1.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Compras DM.dim</Name>
-      <FullPath>Compras DM.dim</FullPath>
-    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
