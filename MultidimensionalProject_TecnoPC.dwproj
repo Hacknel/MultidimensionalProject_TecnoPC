@@ -98,7 +98,7 @@
           <ConfigurationSetting>
             <Id>DM Tecno PC CS Database Service</Id>
             <Name>DM Tecno PC CS Database Service</Name>
-            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=HACKNEL;Persist Security Info=True;Password=;User ID=;Initial Catalog=DMTecnoPC_CS_DatabaseService</Value>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=JEFFERSON-PC;Persist Security Info=True;Password=;User ID=;Initial Catalog=DMTecnoPC_CS_DatabaseService</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
