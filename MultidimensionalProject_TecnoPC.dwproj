@@ -47,6 +47,16 @@
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
+    <ProjectItem>
+      <Name>INVENTARIO.cube</Name>
+      <FullPath>INVENTARIO.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>INVENTARIO.partitions</Name>
+          <FullPath>INVENTARIO.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
